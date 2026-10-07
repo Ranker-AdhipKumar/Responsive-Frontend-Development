@@ -9,11 +9,12 @@
 
 ---
 
-## 🚀 Live Demo & Repository
+## 🔗 Submission Links & Live Deployment
 
-- **Project Location**: `D:\Antigravity\responsive_frontend_development`
-- **Framework**: React + Vite + Tailwind CSS + Lucide Icons
-- **Production Build**: Self-contained in `dist/` ready for instant deployment to Vercel, Netlify, or GitHub Pages.
+- **🌐 Live Vercel Deployment**: [https://responsive-frontend-development.vercel.app](https://responsive-frontend-development.vercel.app) *(or your deployed Vercel domain)*
+- **📂 GitHub Repository**: [https://github.com/Ranker-AdhipKumar/Responsive-Frontend-Development](https://github.com/Ranker-AdhipKumar/Responsive-Frontend-Development)
+- **⚡ Framework & Tooling**: React 19 + Vite 8 + Tailwind CSS 3.4 + Lucide Icons
+- **🎯 Task Context**: DCS - Web Cluster Frontend Task (Developer Community SASTRA & Google Developer Groups)
 
 ---
 

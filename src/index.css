@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: #121212;
+    background-color: #F7F5EE;
+  }
+
+  ::selection {
+    background-color: #D2F800;
+    color: #000000;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #EFECE2;
+}
+::-webkit-scrollbar-thumb {
+  background: #C4BEB0;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9C9482;
+}
+
+/* Badge styles */
+.badge-lime {
+  background-color: #D2F800;
+  color: #000;
+  font-weight: 700;
+}
+
+/* Accessible focus outline */
+*:focus-visible {
+  outline: 2px solid #D2F800;
+  outline-offset: 2px;
+}

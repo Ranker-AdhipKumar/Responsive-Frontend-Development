@@ -5,17 +5,16 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.x-38B2AC.svg)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> A modern, pixel-faithful, responsive e-commerce web application engineered for **PACELINE Running Co.**, Glasgow, Scotland. Built strictly according to the design specifications provided in the DCS & GDG Web Cluster Frontend Task.
+> A modern, pixel-faithful, responsive e-commerce web application engineered for **PACELINE Running Co.**, Glasgow, Scotland. Built strictly according to modern responsive design and production standards.
 
 ---
 
-## 🔗 Submission Links & Live Deployment
+## 🔗 Live Deployment & Repository
 
 - **🌐 Live Vercel Deployment**: [https://responsive-frontend-development.vercel.app](https://responsive-frontend-development.vercel.app)
 - **🌐 Live Netlify Deployment**: [https://responsive-frontend-development.netlify.app/](https://responsive-frontend-development.netlify.app/)
 - **📂 GitHub Repository**: [https://github.com/Ranker-AdhipKumar/Responsive-Frontend-Development](https://github.com/Ranker-AdhipKumar/Responsive-Frontend-Development)
 - **⚡ Framework & Tooling**: React 19 + Vite 8 + Tailwind CSS 3.4 + Lucide Icons
-- **🎯 Task Context**: DCS - Web Cluster Frontend Task (Developer Community SASTRA & Google Developer Groups)
 
 ---
 
@@ -156,7 +155,7 @@ This project implements both pages showcased in the official design mockups (`Ho
 responsive_frontend_development/
 ├── dist/                          # Production-ready compiled build
 ├── public/
-│   └── assets/                    # Exact images from DCS_FrontEnd_Files
+│   └── assets/                    # Curated brand photography and assets
 │       ├── About/                 # Founders, timeline, map, joggers photos
 │       └── Home/                  # Hero, categories, arrivals, story, explore
 ├── src/
@@ -192,7 +191,7 @@ responsive_frontend_development/
 
 ---
 
-## 📜 Evaluation Criteria Coverage
+## 🏆 Key Architectural Highlights
 
 - ✅ **Creativity**: Interactive cart with free shipping meter, quick-view lab specs modal, live gait appointment booking, and slick micro-interactions.
 - ✅ **Code Quality**: Highly structured React components, separation of concerns, clean CSS, and modular state management.
@@ -201,5 +200,3 @@ responsive_frontend_development/
 - ✅ **Performance**: Lightning fast load times, lightweight bundle, and optimized assets.
 - ✅ **Accessibility**: Semantic HTML, skip links, ARIA labels, and high contrast design.
 
----
-*Created for the DCS & GDG Web Cluster Frontend Evaluation.*

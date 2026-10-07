@@ -12,7 +12,7 @@
 ## 🔗 Submission Links & Live Deployment
 
 - **🌐 Live Vercel Deployment**: [https://responsive-frontend-development.vercel.app](https://responsive-frontend-development.vercel.app)
-- **🌐 Live Netlify Deployment**: [https://paceline-running.netlify.app](https://paceline-running.netlify.app) *(or your deployed Netlify domain)*
+- **🌐 Live Netlify Deployment**: [https://responsive-frontend-development.netlify.app/](https://responsive-frontend-development.netlify.app/)
 - **📂 GitHub Repository**: [https://github.com/Ranker-AdhipKumar/Responsive-Frontend-Development](https://github.com/Ranker-AdhipKumar/Responsive-Frontend-Development)
 - **⚡ Framework & Tooling**: React 19 + Vite 8 + Tailwind CSS 3.4 + Lucide Icons
 - **🎯 Task Context**: DCS - Web Cluster Frontend Task (Developer Community SASTRA & Google Developer Groups)

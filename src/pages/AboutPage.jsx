@@ -75,6 +75,31 @@ export default function AboutPage() {
               <div className="pt-2 font-bold text-neutral-900 tracking-wide text-base">
                 — Rae & Jamie, Founders
               </div>
+
+              {/* Core Topics & Focus Areas */}
+              <div className="pt-4 border-t border-brand-border/60">
+                <div className="text-[11px] font-extrabold uppercase tracking-widest text-neutral-500 mb-3">
+                  Core Topics & Running Specialties:
+                </div>
+                <div className="flex flex-wrap gap-2">
+                  {[
+                    'Clinical Gait Analysis',
+                    'Marathon Super-Shoes',
+                    'Scottish Highland Trail',
+                    'Girls Run Glasgow 20% Initiative',
+                    'Winter Waterproof Layering',
+                    'Wednesday Run Club (80+ Runners)',
+                    'Injury Prevention & Physio'
+                  ].map((topic) => (
+                    <span
+                      key={topic}
+                      className="px-3 py-1 bg-white border border-brand-border text-xs font-bold text-neutral-800 shadow-sm hover:border-black transition-colors"
+                    >
+                      #{topic}
+                    </span>
+                  ))}
+                </div>
+              </div>
             </div>
           </div>
         </div>

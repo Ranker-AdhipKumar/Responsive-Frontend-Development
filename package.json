@@ -1,7 +1,23 @@
 {
-  "name": "responsive_frontend_development",
+  "name": "responsive-frontend-development",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "High-performance responsive e-commerce running brand website built for PACELINE with React 19, Vite, and Tailwind CSS. Features dynamic cart, filterable arrivals, lab specs modal, and clinic gait booking.",
+  "homepage": "https://responsive-frontend-development.netlify.app",
+  "keywords": [
+    "react",
+    "react19",
+    "vite",
+    "tailwindcss",
+    "responsive-design",
+    "ecommerce",
+    "frontend",
+    "web-development",
+    "paceline",
+    "accessibility",
+    "ui-ux",
+    "running-gear"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",
